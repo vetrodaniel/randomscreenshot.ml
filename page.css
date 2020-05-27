@@ -46,10 +46,10 @@ table, tr, td{
 
 #generator{
     font-size: 62px;
-    background-color: green;
+    background-color: #34a8eb;
     border-radius: 15px;
     padding: 10px;
-    border: green;
+    border: #34a8eb;
     color: white;
     font-family: "Arial Black", Gadget, sans-serif;
     transition: 0.75s;
@@ -82,7 +82,7 @@ table, tr, td{
     list-style-type: none;
     text-decoration: none;
     color: white;
-    background-color: green;
+    background-color: #34a8eb;
     border-radius: 15px;
     padding: 10px;
 }
@@ -107,7 +107,7 @@ table, tr, td{
     list-style-type: none;
     text-decoration: none;
     color: white;
-    background-color: green;
+    background-color: #34a8eb;
     border-radius: 15px;
     padding: 10px;
 }
