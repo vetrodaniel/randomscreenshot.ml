@@ -1,0 +1,113 @@
+body{
+    background-color: #333;
+    font-family: "Arial Black", Gadget, sans-serif;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: larger;
+    transition: 0.75s;
+  }
+  
+  #button{
+      padding: 28px 120px;
+  }
+
+  #button:hover{
+    opacity: 0.5;
+    font-size: xx-large;
+    transition: 0.75s;
+  }
+
+  #logo{
+      padding: 5px 60px;
+  }
+table, tr, td{
+    text-align: left;
+    margin: auto;
+}
+
+#generator{
+    font-size: 62px;
+    background-color: green;
+    border-radius: 15px;
+    padding: 10px;
+    border: green;
+    color: white;
+    font-family: "Arial Black", Gadget, sans-serif;
+    transition: 0.75s;
+}
+
+#generator:hover{
+    font-size: 72px;
+}
+
+#generatortd{
+    text-align: center;
+    padding: 200px 0px;
+}
+
+#left{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#right{
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#original{
+    text-align: center;
+}
+
+#original a{
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+    background-color: green;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.active{
+    color: black;
+}
+
+#trans{
+    transition: 0.75s;
+}
+
+#trans:hover{
+    font-size: large;
+}
+
+#work{
+    text-align: center;
+}
+
+#work a{
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+    background-color: green;
+    border-radius: 15px;
+    padding: 10px;
+}
